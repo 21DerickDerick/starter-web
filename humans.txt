@@ -10,6 +10,9 @@ derick - potato - @potatoballs
 
     <name>
 
+    thanks potato
+    
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
